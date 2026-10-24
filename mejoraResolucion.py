@@ -40,3 +40,5 @@ def procesar_wallpaper_local(nombre_archivo_entrada, ruta_salida):
 # --- EJECUCIÓN ---
 # Usa tu imagen 'specialHerbs.jpg' y guarda el resultado como 'wallpaper_specialHerbs.jpg'
 procesar_wallpaper_local("specialHerbs.jpg", "wallpaper_specialHerbs.jpg")
+
+#cambio
